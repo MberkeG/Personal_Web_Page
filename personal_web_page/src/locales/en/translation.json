@@ -1,0 +1,75 @@
+{
+  "menu": {
+    "home": "Home",
+    "about": "About Me",
+    "portfolio": "Portfolio",
+    "cv": "CV",
+    "contact": "Contact"
+  },
+  "homepage": {
+    "title": "Melik Berke Gül",
+    "subtitle": "Mobile & Web Developer",
+    "desc": "Hello! I'm Melik Berke Gül. I'm a computer engineer working in web and mobile programming. I develop end-to-end functional, modern and user-oriented applications."
+  },
+  "about": {
+    "title": "About Me",
+    "p1": "Hello! I'm Melik Berke Gül. I graduated from Konya Food and Agriculture University, Department of Computer Engineering (100% English), with a GPA of 2.93/4.00. Throughout my education, I gained both academic and practical experience in line with my interest in software development and mobile programming.",
+    "p2": "I completed my first summer internship at Kastamonu Provincial Special Administration in a hardware-oriented position. During this period, I had the opportunity to learn about basic hardware structures and public IT infrastructure. My second internship was at TÜBİTAK SAGE, one of the leading defense industry organizations in our country, in the Software Test Unit. Here, I worked on mobile programming with Java and contributed to the test automation processes of the mobile application I developed. This internship helped me better understand the importance of not only software development but also quality assurance and testing processes.",
+    "p3": "In the last year of my undergraduate education, I took part in the project called 'Dijital Tarım' (Digital Agriculture), which was supported within the scope of the TÜBİTAK 2209-A program and also carried out as a graduation project. In this project, I played an active role in the mobile software development team and contributed to the development of a user-friendly and functional mobile solution for agricultural technologies.",
+    "p4": "I strive to improve myself in both frontend and backend development processes. I closely follow modern technologies and care about software architecture as much as user experience.",
+    "p5": "As an engineer who is compatible with teamwork, responsible, and able to take the lead when necessary, I aim to produce projects that make a difference with technology."
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "techLabel": "Technologies Used:",
+    "detail": "Detail",
+    "github": "Github",
+    "projectImages": "Project Images",
+    "close": "Close",
+    "projects": {
+      "tarim": {
+        "title": "Digital Agriculture",
+        "desc": "A user-friendly and functional mobile application for agricultural technologies. Supported by TÜBİTAK 2209-A, developed with Flutter."
+      },
+      "kur": {
+        "title": "Currency Converter",
+        "desc": "This application, developed with Flutter, performs currency conversion based on current exchange rates using an API."
+      },
+      "ulkeler": {
+        "title": "Countries App",
+        "desc": "Lists certain information about countries using an API and offers a feature to add favorites. Developed with Flutter."
+      },
+      "web": {
+        "title": "Personal Web Site",
+        "desc": "This project is a modern and responsive personal portfolio and CV website. Developed with React, Vite, EmailJS, and i18next; it features multi-language support, dynamic content, and a modern design. All pages and content are optimized in both Turkish and English."
+      }
+    }
+  },
+  "cv": {
+    "title": "CV",
+    "download": "Download CV",
+    "loading": "Loading...",
+    "personalInfo": "Personal Info",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "certifications": "Certifications",
+    "location": "Location",
+    "email": "Email",
+    "phone": "Phone",
+    "profile": "Profile",
+    "technical": "Technical",
+    "soft": "Personal"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "success": "Your message has been sent successfully! 🎉",
+    "error": "An error occurred, please try again."
+  }
+} 

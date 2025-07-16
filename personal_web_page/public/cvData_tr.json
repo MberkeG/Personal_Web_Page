@@ -1,0 +1,96 @@
+{
+  "name": "Melik Berke Gül",
+  "title": "Bilgisayar Mühendisi",
+  "location": "Konya, Türkiye",
+  "email": "mberkegul@gmail.com",
+  "phone": "+90 541 921 1495",
+  "linkedin": "https://www.linkedin.com/in/melik-berke-gül/",
+  "summary": "Konya Gıda ve Tarım Üniversitesi Bilgisayar Mühendisliği (%100 İngilizce) bölümünden mezun oldum. Özellikle mobil programlama ve web geliştirme alanlarına ilgi duyuyorum ve bu alanlarda aktif olarak projeler geliştiriyorum. TÜBİTAK SAGE'deki stajımda mobil uygulama geliştirme ve yazılım test otomasyonu süreçlerinde aktif rol aldım. Mezuniyet projem kapsamında TÜBİTAK 2209-A destekli bir projede Flutter mobil takım lideri olarak görev aldım. Takım çalışmasına yatkın, çözüm odaklı ve öğrenmeye istekli sorumluluk sahibi bir yazılım geliştiricisiyim.",
+  "education": [
+    {
+      "institution": "Konya Gıda ve Tarım Üniversitesi",
+      "department": "Bilgisayar Mühendisliği (%100 İngilizce)",
+      "gpa": "2.93/4.00",
+      "location": "Konya, Türkiye",
+      "years": "2020 - 2025",
+      "activities": [
+        "IEEE KGTÜ Öğrenci Kolu",
+        "Google Developer Club"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Yazılım Test Birimi Stajyeri",
+      "company": "TÜBİTAK SAGE",
+      "location": "Ankara, Türkiye",
+      "date": "Temmuz 2024 - Ağustos 2024",
+      "description": "Java kullanarak iki mobil uygulama geliştirdim. Appium ile test otomasyonu uyguladım. Mobil geliştirme ve yazılım test süreçlerinde pratik deneyim kazandım."
+    },
+    {
+      "title": "Bilgisayar Mühendisliği Stajyeri",
+      "company": "İçişleri Bakanlığı, İl Özel İdaresi",
+      "location": "Kastamonu, Türkiye",
+      "date": "Temmuz 2023 - Ağustos 2023"
+    },
+    {
+      "title": "Bilgisayar Mühendisliği Stajyeri",
+      "company": "Ecodation",
+      "location": "İstanbul, Türkiye",
+      "date": "Mart 2021",
+      "description": "C# eğitimi sonrası kısa süreli online staj tamamladım."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Dijital Tarım Projesi",
+      "description": "TÜBİTAK 2209-A destekli mezuniyet projesi. Mobil uygulaması Flutter ile geliştirildi. Çiftçilere interaktif haritalama, bilgi ve uzmanlarla iletişim imkanı sunar.",
+      "technologies": [
+        "Flutter",
+        "Google Maps API"
+      ]
+    },
+    {
+      "title": "TÜBİTAK SAGE Projesi",
+      "description": "Java tabanlı iki mobil uygulama geliştirildi. Servis tabanlı tek bir uygulamada birleştirildi. Appium ile test otomasyonu uygulandı.",
+      "technologies": [
+        "Java",
+        "Appium"
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Dart",
+      "Flutter",
+      "HTML",
+      "CSS",
+      "Java",
+      "Appium",
+      "Firebase",
+      "JavaScript",
+      "React",
+      "SQL",
+      "Kotlin"
+    ],
+    "soft": [
+      "Eleştirel Düşünme",
+      "Analitik Düşünme",
+      "Çalışma Disiplini",
+      "Liderlik",
+      "Takım Çalışması",
+      "Pozitif Tutum",
+      "İletişim"
+    ]
+  },
+  "certifications": [
+    "Flutter Mobil Uygulama Geliştirme (Udemy)",
+    "HTML5 Web Geliştirme (BTK Akademi)",
+    "Java 101 (Turkcell Geleceği Yazanlar)",
+    "CSS Temelleri (BTK Akademi)",
+    "Java 201, 301 (Turkcell Geleceği Yazanlar)",
+    "Appium & Java ile Mobil Test Otomasyonu (Udemy)",
+    "Java Programlamaya Giriş (BTK Akademi)",
+    "C# Yazılım Uzmanlığı (Ecodation)"
+  ]
+}

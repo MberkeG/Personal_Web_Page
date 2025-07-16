@@ -1,0 +1,96 @@
+{
+  "name": "Melik Berke Gül",
+  "title": "Computer Engineer",
+  "location": "Konya, Turkey",
+  "email": "mberkegul@gmail.com",
+  "phone": "+90 541 921 1495",
+  "linkedin": "https://www.linkedin.com/in/melik-berke-gül/",
+  "summary": "I graduated from Konya Food and Agriculture University, Department of Computer Engineering (100% English). I am particularly interested in mobile programming and web development, and I actively develop projects in these areas. During my internship at TÜBİTAK SAGE, I took an active role in mobile application development and software test automation processes. As part of my graduation project, I served as the Flutter mobile team leader in a TÜBİTAK 2209-A supported project. I am a software developer who is prone to teamwork, solution-oriented, responsible, and eager to learn.",
+  "education": [
+    {
+      "institution": "Konya Food and Agriculture University",
+      "department": "Computer Engineering (100% English)",
+      "gpa": "2.93/4.00",
+      "location": "Konya, Turkey",
+      "years": "2020 - 2025",
+      "activities": [
+        "IEEE KGTU Student Branch",
+        "Google Developer Club"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Test Unit Intern",
+      "company": "TÜBİTAK SAGE",
+      "location": "Ankara, Turkey",
+      "date": "July 2024 - August 2024",
+      "description": "I developed two mobile applications using Java. I applied test automation with Appium. I gained practical experience in mobile development and software testing processes."
+    },
+    {
+      "title": "Computer Engineering Intern",
+      "company": "Ministry of Interior, Provincial Special Administration",
+      "location": "Kastamonu, Turkey",
+      "date": "July 2023 - August 2023"
+    },
+    {
+      "title": "Computer Engineering Intern",
+      "company": "Ecodation",
+      "location": "Istanbul, Turkey",
+      "date": "March 2021",
+      "description": "I completed a short-term online internship after C# training."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Digital Agriculture Project",
+      "description": "A graduation project supported by TÜBİTAK 2209-A. The mobile application was developed with Flutter. It offers farmers interactive mapping, information, and communication with experts.",
+      "technologies": [
+        "Flutter",
+        "Google Maps API"
+      ]
+    },
+    {
+      "title": "TÜBİTAK SAGE Project",
+      "description": "Two mobile applications based on Java were developed. They were combined into a single service-based application. Test automation was applied with Appium.",
+      "technologies": [
+        "Java",
+        "Appium"
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Dart",
+      "Flutter",
+      "HTML",
+      "CSS",
+      "Java",
+      "Appium",
+      "Firebase",
+      "JavaScript",
+      "React",
+      "SQL",
+      "Kotlin"
+    ],
+    "soft": [
+      "Critical Thinking",
+      "Analytical Thinking",
+      "Work Discipline",
+      "Leadership",
+      "Teamwork",
+      "Positive Attitude",
+      "Communication"
+    ]
+  },
+  "certifications": [
+    "Flutter Mobile Application Development (Udemy)",
+    "HTML5 Web Development (BTK Academy)",
+    "Java 101 (Turkcell Future Coders)",
+    "CSS Basics (BTK Academy)",
+    "Java 201, 301 (Turkcell Future Coders)",
+    "Appium & Java with Mobile Test Automation (Udemy)",
+    "Introduction to Java Programming (BTK Academy)",
+    "C# Software Expertise (Ecodation)"
+  ]
+} 

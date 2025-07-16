@@ -1,0 +1,75 @@
+{
+  "menu": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "portfolio": "Portfolyo",
+    "cv": "CV",
+    "contact": "İletişim"
+  },
+  "homepage": {
+    "title": "Melik Berke Gül",
+    "subtitle": "Mobil ve Web Geliştirici",
+    "desc": "Merhaba! Ben Melik Berke Gül. Web ve mobil programlama alanlarında çalışan bir bilgisayar mühendisiyim. Uçtan uca işlevsel, modern ve kullanıcı odaklı uygulamalar geliştiriyorum."
+  },
+  "about": {
+    "title": "Hakkımda",
+    "p1": "Merhaba! Ben Melik Berke Gül. Konya Gıda ve Tarım Üniversitesi Bilgisayar Mühendisliği (%100 İngilizce) bölümünden, 2.93/4.00 not ortalaması ile mezun oldum. Yazılım geliştirme ve mobil programlama alanlarına duyduğum ilgi doğrultusunda, eğitim sürecim boyunca hem akademik hem de pratik tecrübeler kazandım.",
+    "p2": "İlk yaz stajımı Kastamonu İl Özel İdaresi'nde donanım ağırlıklı bir pozisyonda gerçekleştirdim. Bu süreçte temel donanım yapıları ve kamu bilişim altyapısı hakkında bilgi edinme fırsatım oldu. İkinci yaz stajımı ise ülkemizin önde gelen savunma sanayi kuruluşlarından biri olan TÜBİTAK SAGE'de, Yazılım Test Birimi'nde tamamladım. Burada Java diliyle mobil programlama üzerine çalıştım ve geliştirdiğim mobil uygulamanın test otomasyon süreçlerine katkıda bulundum. Bu staj, yazılımın sadece geliştirme değil, aynı zamanda kalite güvencesi ve test süreçlerinin önemini daha iyi kavramamı sağladı.",
+    "p3": "Lisans eğitiminin son senesinde, TÜBİTAK 2209-A programı kapsamında destek almaya hak kazanan ve aynı zamanda bitirme projesi olarak gerçekleştirdiğimiz “Dijital Tarım” adlı projede yer aldım. Bu projede mobil yazılım geliştirme ekibinde aktif rol alarak, tarım teknolojilerine yönelik kullanıcı dostu ve işlevsel bir mobil çözüm geliştirilmesine katkıda bulundum.",
+    "p4": "Geliştirme süreçlerinde hem frontend hem de backend tarafında kendimi geliştirmeye özen gösteriyorum. Modern teknolojileri yakından takip ediyor, kullanıcı deneyimi kadar yazılım mimarisine de önem veriyorum.",
+    "p5": "Takım çalışmalarına uyumlu, sorumluluk sahibi ve gerektiğinde liderlik alabilen bir mühendis olarak, teknolojiyle fark yaratan projeler üretmeyi hedefliyorum."
+  },
+  "portfolio": {
+    "title": "Portfolyo",
+    "techLabel": "Kullanılan Teknolojiler:",
+    "detail": "Detay",
+    "github": "Github",
+    "projectImages": "Proje Görselleri",
+    "close": "Kapat",
+    "projects": {
+      "tarim": {
+        "title": "Dijital Tarım",
+        "desc": "Tarım teknolojilerine yönelik kullanıcı dostu ve işlevsel bir mobil uygulama. TÜBİTAK 2209-A destekli, Flutter ile geliştirildi."
+      },
+      "kur": {
+        "title": "Kur Dönüştürücü",
+        "desc": "Flutter ile geliştirilen bu uygulama, API kullanarak güncel kur değerlerine göre para birimi dönüştürme işlemi yapar."
+      },
+      "ulkeler": {
+        "title": "Ülkeler Uygulaması",
+        "desc": "API kullanarak ülkelerin belirli bilgilerini listeler ve favorilere ekleme özelliği sunar. Flutter ile geliştirildi."
+      },
+      "web": {
+        "title": "Kişisel Web Sitesi",
+        "desc": "Bu proje, modern ve responsive bir kişisel portfolyo ve CV web sitesidir. React, Vite, EmailJS ve i18next ile geliştirilmiş; çoklu dil desteği, dinamik içerik ve modern tasarım özellikleriyle öne çıkar. Tüm sayfalar ve içerikler Türkçe ve İngilizce olarak optimize edilmiştir."
+      }
+    }
+  },
+  "cv": {
+    "title": "Özgeçmiş",
+    "download": "CV'yi İndir",
+    "loading": "Yükleniyor...",
+    "personalInfo": "Kişisel Bilgiler",
+    "education": "Eğitim",
+    "experience": "Tecrübeler",
+    "skills": "Yetenekler",
+    "projects": "Projeler",
+    "certifications": "Sertifikalar",
+    "location": "Lokasyon",
+    "email": "Email",
+    "phone": "Telefon",
+    "profile": "Profil",
+    "technical": "Teknik",
+    "soft": "Kişisel"
+  },
+  "contact": {
+    "title": "İletişim",
+    "name": "Ad",
+    "surname": "Soyad",
+    "email": "E-posta",
+    "message": "Mesaj",
+    "send": "Gönder",
+    "success": "Mesajınız başarıyla gönderildi! 🎉",
+    "error": "Bir hata oluştu, lütfen tekrar deneyin."
+  }
+} 
