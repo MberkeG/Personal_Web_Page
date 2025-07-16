@@ -35,7 +35,7 @@ const projectData = {
     ].filter(Boolean)
   },
   tarim: {
-    github: 'https://github.com/kendi-github-linkin/dijital-tarim',
+    github: 'https://github.com/MberkeG/dijital_tarim',
     technologies: [
       { name: 'Flutter', icon: '/flutter.svg', fallback: '/flutter.png' },
       { name: 'Google Maps API', icon: '/google-maps.svg', fallback: '/google-maps.png' }
